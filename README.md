@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1> Projeto Zyra Technology  👩🏽‍💻👩🏽‍💻👩🏿‍💻👩‍💻👩🏻‍💻👩🏼‍💻 </h1> 
 
-<!--
-**ZyraTech/ZyraTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center"> <img  src= "https://i.imgur.com/zd4BlKm.png"/> </div>
 
-Here are some ideas to get you started:
+<h2> Sobre o Projeto 💡 </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> O motivo da criação da empresa Zyra, tecnologia sustentável, é trazer um gerenciador de controle de estoque, na área financeira e gerenciamento no geral, com base nas necessidades dos nossos clientes, de modo que seja prático tanto no atendimento quanto na produção de um software de design limpo e fácil entendimento.
+ </p>
+
+<h2> Funcionalidades ⚙️ </h2>
+
+<ul>
+
+  <li>Resgistro e Login;</li>
+  <li>Resgistro, Edição e Exclusão de funcionarios;</li>
+  <li>Resgistro, Edição e Exclusão de estoque;</li>
+  <li>Edição de perfil da loja:</li>
+ 
+ </ul>
+ 
+ # Software utilizados durante o projeto 📚 </h2>
+
+  - [x] JAVA
+  - [x] MySQL
+  - [x] Spring Boot
+  - [x] Bootstrap
+  - [x] Angular
+  - [x] CSS
+  - [x] JavaScript
+  - [x] API - REST - CRUD
+  - [x] Git
+ 
+ 
+ <h2> Desenvolvedores 🚀</h2>
+ 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Matth998"><img style="border-radius: 50%;" src="https://i.imgur.com/CXo8rjO.jpg" width="100px;" alt=""/><br /><sub><b>Matheus Da Silva</b></sub></a><br /><a href="https://github.com/Matth998" title="GitHub Matth">👩🏻‍💻</a></td> 
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://i.imgur.com/dc7aGhV.jpg" width="100px;" alt=""/><br /><sub><b>Julia Espinosa</b></sub></a><br /><a href="" title="GitHub Julia">👨🏽‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://i.imgur.com/ItKUkTO.jpg" width="100px;" alt=""/><br /><sub><b>Jhoysell Kattya</b></sub></a><br /><a href="" title="GitHub Jho">👨🏾‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://i.imgur.com/TwmcsD3.jpg" width="100px;" alt=""/><br /><sub><b>José Felipe</b></sub></a><br /><a href="" title="GitHub Jose">👩🏽‍💻</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://i.imgur.com/gGlBXET.jpg" width="100px;" alt=""/><br /><sub><b>Leonardo Almeida</b></sub></a><br /><a href="" title="GitHub Leonardo">👨🏻‍💻</a></td>
+
+    
+  </tr>
+ 
+</table>
